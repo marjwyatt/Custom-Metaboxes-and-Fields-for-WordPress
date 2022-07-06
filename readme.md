@@ -97,6 +97,7 @@ All contributions welcome. If you would like to submit a pull request, please ch
 
 ## Changelog
 
+July 6, 2022
 * Updated init.php to overcome "Count(): Parameter must be an array or an object that implements Countable error" and make plugin work on PHP 7.x 
 * Fix found here: https://wordpress.org/support/topic/fixedcount-parameter-must-be-an-array-or-an-object-that-implements-countable/
 * Topic title at wordpress.org: FIXED:Count(): Parameter must be an array or an object that implements Countable
